@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="813b4a0f-1acd-48ba-a822-45f80544f621" name="Default Changelist" comment="" />
+    <list default="true" id="813b4a0f-1acd-48ba-a822-45f80544f621" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,10 +57,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1UYwGUhxQm7PyTjLph97iHCinFo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -66,11 +74,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.1875" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Kotlin.ApplicationToRun">
     <configuration name="MyApp" type="Application" factoryName="Application">
@@ -128,7 +138,7 @@
       <option name="presentableId" value="Default" />
       <updated>1575546740137</updated>
       <workItem from="1575546745460" duration="1488000" />
-      <workItem from="1575550514358" duration="6290000" />
+      <workItem from="1575550514358" duration="6504000" />
     </task>
     <servers />
   </component>
@@ -164,6 +174,10 @@
       <screen x="1920" y="0" width="1920" height="1200" />
     </state>
     <state width="1804" height="315" key="GridCell.Tab.0.right/1920.0.1920.1200/0.27.1920.1173@1920.0.1920.1200" timestamp="1575556901901" />
+    <state x="2404" y="248" width="1022" height="737" key="SettingsEditor" timestamp="1575557347641">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2404" y="248" width="1022" height="737" key="SettingsEditor/1920.0.1920.1200/0.27.1920.1173@1920.0.1920.1200" timestamp="1575557347641" />
     <state x="2090" y="127" width="1650" height="973" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1575554714841">
       <screen x="1920" y="0" width="1920" height="1200" />
     </state>
