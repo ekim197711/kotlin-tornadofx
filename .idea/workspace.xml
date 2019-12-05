@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="813b4a0f-1acd-48ba-a822-45f80544f621" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="tornadofx-demo" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="tornadofx-demo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UYwGUhxQm7PyTjLph97iHCinFo" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.1875" />
+  </component>
+  <component name="RunManager" selected="Kotlin.ApplicationToRun">
+    <configuration name="MyApp" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MyApp" />
+      <module name="tornadofx-demo.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationToRun" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="tornadofx-demo.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ApplicationToRun" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MyApp" />
+      <item itemvalue="Kotlin.ApplicationToRun" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.ApplicationToRun" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="813b4a0f-1acd-48ba-a822-45f80544f621" name="Default Changelist" comment="" />
+      <created>1575546740137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575546740137</updated>
+      <workItem from="1575546745460" duration="1488000" />
+      <workItem from="1575550514358" duration="6290000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2510" y="275" width="847" height="684" key="#Project_Structure" timestamp="1575556368715">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2510" y="275" width="847" height="684" key="#Project_Structure/1920.0.1920.1200/0.27.1920.1173@1920.0.1920.1200" timestamp="1575556368715" />
+    <state x="2373" y="271" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575553348556">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2373" y="271" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1200/0.27.1920.1173@1920.0.1920.1200" timestamp="1575553348556" />
+    <state x="2647" y="399" width="525" height="435" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1575553298738">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2647" y="399" width="525" height="435" key="#com.intellij.ide.util.TreeClassChooserDialog/1920.0.1920.1200/0.27.1920.1173@1920.0.1920.1200" timestamp="1575553298738" />
+    <state width="1804" height="315" key="GridCell.Tab.0.bottom" timestamp="1575556901901">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1804" height="315" key="GridCell.Tab.0.bottom/1920.0.1920.1200/0.27.1920.1173@1920.0.1920.1200" timestamp="1575556901901" />
+    <state width="1804" height="315" key="GridCell.Tab.0.center" timestamp="1575556901901">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1804" height="315" key="GridCell.Tab.0.center/1920.0.1920.1200/0.27.1920.1173@1920.0.1920.1200" timestamp="1575556901901" />
+    <state width="1804" height="315" key="GridCell.Tab.0.left" timestamp="1575556901901">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1804" height="315" key="GridCell.Tab.0.left/1920.0.1920.1200/0.27.1920.1173@1920.0.1920.1200" timestamp="1575556901901" />
+    <state width="1804" height="315" key="GridCell.Tab.0.right" timestamp="1575556901901">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1804" height="315" key="GridCell.Tab.0.right/1920.0.1920.1200/0.27.1920.1173@1920.0.1920.1200" timestamp="1575556901901" />
+    <state x="2090" y="127" width="1650" height="973" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1575554714841">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2090" y="127" width="1650" height="973" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.0.1920.1200/0.27.1920.1173@1920.0.1920.1200" timestamp="1575554714841" />
+    <state x="2469" y="219" width="881" height="796" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1575557191579">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2469" y="219" width="881" height="796" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1920.1200/0.27.1920.1173@1920.0.1920.1200" timestamp="1575557191579" />
+    <state x="2224" y="340" width="1372" height="554" key="new project wizard" timestamp="1575552587078">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2224" y="340" width="1372" height="554" key="new project wizard/1920.0.1920.1200/0.27.1920.1173@1920.0.1920.1200" timestamp="1575552587078" />
+  </component>
+</project>
